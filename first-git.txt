@@ -1,7 +1,4 @@
 practice git
 
 基礎ヤルで
-
-.git add
-.git commit
-
+変更したよ
