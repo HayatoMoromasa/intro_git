@@ -3,6 +3,5 @@ practice git
 基礎ヤルで
 変更したよ
 
-
 git statusやるで
 
